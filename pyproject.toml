@@ -1,0 +1,18 @@
+[project]
+name = "growth-curve"
+version = "0.0.1"
+authors = [
+  { name="Steve Zheng", email="ziv.zheng89@gmail.com" },
+]
+description = "Small package for microbe growth curve analysis"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GPL-3.0 license",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/botyto89/growth_curve_analysis"
+Issues = "https://github.com/botyto89/growth_curve_analysis/issues"
